@@ -23,7 +23,6 @@ public class AuthorizationActivity extends ActionBarActivity implements Authoriz
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_AA);
         setSupportActionBar(toolbar);
         getActionBar().setDisplayShowHomeEnabled(true);
-      int i = 5;
     }
 
     @Override
